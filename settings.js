@@ -1,8 +1,8 @@
 const version = require("@whiskeysockets/baileys/package.json").version
 //Input number for pair code
-global.pairingNumber = "2349019529423"
+global.pairingNumber = "2250172823048"
 
-global.botNumber = ["2349019529423"]
+global.botNumber = ["2250172823048"]
 
 global.anticall = false
 
@@ -12,15 +12,15 @@ global.alwaysonline = true
 
 global.autoswview = false
 
-global.public = true
+global.public = false
 
-global.autoreact = false
+global.autoreact = true
 
-global.antidelete = false
+global.antidelete = true
 
-global.autotyping = false
+global.autotyping = true
 
-global.autoBio = true
+global.autoBio = false
 
 global.antiSpam = true
 
@@ -33,22 +33,22 @@ global.bankname = "BLUE"
 global.accnumber = "7041039367"
 
 global.language = "en"
-global.sessionName = "session"
+global.sessionName = "sasuke"
 global.pairingCode = true 
 global.runWith = "𝙽𝙾𝙳𝙴.𝙹𝚂"
 global.newsletterJid = "120363304326105871@newsletter"
 global.newsletterName = "𝐁𝐋𝐔𝐄𝐗𝐃𝐄𝐌𝐎𝐍 𝐕𝟒"
 global.caption = "𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝙱𝙻𝚄𝙴𝙳𝙴𝙼𝙾𝙽🐦‍🔥"
-global.ownerName = "𝐁𝐋𝐔𝐄 𝐃𝐄𝐌𝐎𝐍"
+global.ownerName = "𝐒𝐀𝐒𝐔𝐊𝐄"
 global.syt = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
 global.sgc = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
 global.sig = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
 global.web = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
 //setbot
-global.botName = "𝐁𝐋𝐔𝐄𝐗𝐃𝐄𝐌𝐎𝐍 𝐕𝟒" 
+global.botName = "𝐒𝐀𝐒𝐔𝐊𝐄 𝐕𝟒" 
 global.wm = "𝐁𝐋𝐔𝐄𝐗𝐃𝐄𝐌𝐎𝐍 𝐕𝟒"
 global.fake = botName
-global.setmenu = "image" 
+global.setmenu = "." 
 global.docType = "application/vnd.ms-excel"
 global.themeemoji = '🐦‍🔥'
 global.fotoRandom = [
